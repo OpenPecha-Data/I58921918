@@ -1,0 +1,16 @@
+id: I58921918
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:23:43.561893
+last_modified: 2023-02-10 00:23:43.562065
+source_metadata:
+  title: 'Asaṅga/Maitreya: Ratnagotravibhāga'
+  language: sa
+bases:
+  EA9C:
+    base_file: EA9C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

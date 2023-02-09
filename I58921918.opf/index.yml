@@ -1,0 +1,39 @@
+id: 51b97cc93db14fc98b72dc20b0d75a09
+annotation_type: index
+revision: '00001'
+annotations:
+  8683a98b62284e1f83ae66490024bacd:
+    base: EA9C.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 46
+    - title: Preface
+      span:
+        start: 47
+        end: 74
+    - title: 'Chapter I: The Matrix of the Tathāgata'
+      span:
+        start: 75
+        end: 96320
+    - title: 'Chapter II: The Matrix of the Tathāgata'
+      span:
+        start: 96321
+        end: 107855
+    - title: 'Chapter III: The Properties of the Buddha'
+      span:
+        start: 107856
+        end: 113616
+    - title: 'Chapter IV: The Acts of The Buddha'
+      span:
+        start: 113617
+        end: 129296
+    - title: 'Chapter V: The Merits of Faith'
+      span:
+        start: 129297
+        end: 133742
+    - title: Colophon
+      span:
+        start: 133743
+        end: 133879
